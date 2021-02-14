@@ -36,8 +36,16 @@ class Window(QWidget):
         self.show()
 
     def enter(self):
+        mixer.init()
+        mixer.music.load('assets/text_to_speech/entry.mp3')
+        mixer.music.play()
+        #time.sleep(1)
         os.system('python login.py')
     def exit(self):
+        mixer.init()
+        mixer.music.load('assets/text_to_speech/exit.mp3')
+        mixer.music.play()
+        #time.sleep(1)
         os.system('python login2.py')
 
 
