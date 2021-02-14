@@ -3,5 +3,4 @@
 * Cmake
 * dlib
 * face_recognition
-###This project has been made by Sagnik Chattopadhyay
-##Start project from choice.py
+###This project has been made by Sagnik Chattopadhyay. Start project from choice.py
