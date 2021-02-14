@@ -3,4 +3,4 @@
 * Cmake
 * dlib
 * face_recognition
-###This project has been made by final year students of University of Engineering and Management, Kolkata.
+###This project has been made by Sagnik Chattopadhyay
