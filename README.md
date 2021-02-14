@@ -1,0 +1,2 @@
+# studentattendanceportal
+Student Attendance Portal to mark student attendance in two different databases Entry and Exit which syncs with MySQL database named studentattendanceportal with two tables. This integrates liveness detection as we have to blink and then only attendance will get recorded. Also face pictures added with first have to be encoded using encode_faces function. Database will also not have duplicate entries.
